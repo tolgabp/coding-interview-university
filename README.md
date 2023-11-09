@@ -206,7 +206,7 @@ For a complete CS self-taught program, the resources for my study plan have been
 
 ---
 
-## Why use it?
+## Why use it? [X]
 
 If you want to work as a software engineer for a large company, these are the things you have to know.
 
@@ -221,14 +221,14 @@ thousands of associative arrays, but I never created data structures from scratc
 
 It's a long plan. It may take you months. If you are familiar with a lot of this already it will take you a lot less time.
 
-## How to use it
+## How to use it [X]
 
 Everything below is an outline, and you should tackle the items in order from top to bottom.
 
 I'm using GitHub's special markdown flavor, including tasks lists to track progress.
   - [More about GitHub-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
 
-### If you don't want to use git
+### If you don't want to use git [X]
 
 On this page, click the Code button near the top, then click "Download ZIP". Unzip the file and you can work with the text files.
 
@@ -236,7 +236,7 @@ If you're open in a code editor that understands markdown, you'll see everything
 
 ![How to download the repo as a zip file](https://d3j2pkmjtin6ou.cloudfront.net/how-to-download-as-zip.png)
 
-### If you're comfortable with git
+### If you're comfortable with git [X]
 
 Create a new branch so you can check items like this, just put an x in the brackets: [x]
 
@@ -262,14 +262,14 @@ Create a new branch so you can check items like this, just put an x in the brack
     git push # just pushes to your fork
     ```
 
-## Don't feel you aren't smart enough
+## Don't feel you aren't smart enough [X]
 
 - Successful software engineers are smart, but many have an insecurity that they aren't smart enough.
 - The following videos may help you overcome this insecurity:
     - [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
     - [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
 
-## A Note About Video Resources
+## A Note About Video Resources [X]
 
 Some videos are available only by enrolling in a Coursera or EdX class. These are called MOOCs.
 Sometimes the classes are not in session so you have to wait a couple of months, so you have no access.
@@ -278,14 +278,14 @@ It would be great to replace the online course resources with free and always-av
 such as YouTube videos (preferably university lectures), so that you people can study these anytime,
 not just when a specific online course is in session.
 
-## Choose a Programming Language
+## Choose a Programming Language [X]
 
 You'll need to choose a programming language for the coding interviews you do,
 but you'll also need to find a language that you can use to study computer science concepts.
 
 Preferably the language would be the same, so that you only need to be proficient in one.
 
-### For this Study Plan
+### For this Study Plan [X]
 
 When I did the study plan, I used 2 languages for most of it: C and Python
 
@@ -307,7 +307,7 @@ You may not need it, but here are some sites for learning a new language:
 - [HackerEarth](https://www.hackerearth.com/for-developers/)
 - [Scaler Topics (Java, C++)](https://www.scaler.com/topics/)
 
-### For your Coding Interview
+### For your Coding Interview [X]
 
 You can use a language you are comfortable in to do the coding part of the interview, but for large companies, these are solid choices:
 
@@ -331,7 +331,7 @@ Read more about choices:
 
 [See language-specific resources here](programming-language-resources.md)
 
-## Books for Data Structures and Algorithms
+## Books for Data Structures and Algorithms 
 
 This book will form your foundation for computer science.
 
